@@ -1,0 +1,21 @@
+TableName|PROD_KEY|PROD_DSC|ATTRIBUTE_2|ATTRIBUTE_1|TYPE|LOB|BRAND|SEQUENCE|BRAND_KEY|LOB_KEY|TYPE_KEY|isMulti|
+SAMP_PRODUCTS_D|8|V5x Flip Phone|Red|Size 10|Cell Phones|Communication|BizTech|1|10001|1001|101|null|
+SAMP_PRODUCTS_D|9|Touch-Screen T5|Blue|Size 25|Smart Phones|Communication|BizTech|3|10001|1001|102|null|
+SAMP_PRODUCTS_D|10|KeyMax S-Phone|Green|Size 50|Smart Phones|Communication|BizTech|4|10001|1001|102|null|
+SAMP_PRODUCTS_D|1|MP3 Speakers System|Orange|Size 25|Accessories|Electronics|BizTech|8|10001|1002|104|null|
+SAMP_PRODUCTS_D|2|SoundX Nano 4Gb|Yellow|Size 50|Audio|Electronics|BizTech|5|10001|1002|103|null|
+SAMP_PRODUCTS_D|3|MicroPod 60Gb|Brown|Size 30|Audio|Electronics|BizTech|6|10001|1002|103|null|
+SAMP_PRODUCTS_D|4|MPEG4 Camcorder|Blue|Size 30|Camera|Digital|FunPod|9|10002|1003|105|null|
+SAMP_PRODUCTS_D|7|7 Megapixel Digital Camera|Brown|Size 25|Camera|Digital|FunPod|10|10002|1003|105|null|
+SAMP_PRODUCTS_D|6|PocketFun ES|Yellow|Size 25|Portable|Games|FunPod|11|10002|1004|106|null|
+SAMP_PRODUCTS_D|5|Game Station|Blue|Size 10|Fixed|Games|FunPod|13|10002|1004|107|null|
+SAMP_PRODUCTS_D|11|Plasma HD Television|Purple|Size 10|Plasma|TV|HomeView|15|10003|1005|108|null|
+SAMP_PRODUCTS_D|12|LCD HD Television|Red|Size 80|LCD|TV|HomeView|18|10003|1005|109|null|
+SAMP_PRODUCTS_D|13|Maintenance|Green|Size 80|Maintenance|Services|HomeView|20|10003|1006|111|null|
+SAMP_PRODUCTS_D|14|Install|Red|Size 80|Install|Services|HomeView|19|10003|1006|110|null|
+SAMP_PRODUCTS_D|15|HomeCoach 2000|New|Size 20|Fixed|Games|FunPod|14|10002|1004|107|null|
+SAMP_PRODUCTS_D|16|MaxiFun 2000|New|Size 20|Portable|Games|FunPod|12|10002|1004|106|null|
+SAMP_PRODUCTS_D|17|CompCell RX3|New|Size 20|Cell Phones|Communication|BizTech|2|10001|1001|101|null|
+SAMP_PRODUCTS_D|18|Tungsten E Plasma TV|New|Size 20|Plasma|TV|HomeView|16|10003|1005|108|null|
+SAMP_PRODUCTS_D|19|LCD 36X Standard|New|Size 20|LCD|TV|HomeView|17|10003|1005|109|null|
+SAMP_PRODUCTS_D|20|Bluetooth Adaptor|New|Size 20|Accessories|Electronics|BizTech|7|10001|1002|104|null|
