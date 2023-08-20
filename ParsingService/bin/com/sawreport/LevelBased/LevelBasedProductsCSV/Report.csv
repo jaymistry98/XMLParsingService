@@ -1,2 +1,0 @@
-xmlVersion|xmlnsSaw|xmlnsSawx|xmlnsXsd|xmlnsXsi|contOfsawReportElm|
-201201160|com.siebel.analytics.web/report/v1.1|com.siebel.analytics.web/expression/v1.1|http://www.w3.org/2001/XMLSchema|http://www.w3.org/2001/XMLSchema-instance|"Calculated Facts"."All Products Revenue""Base Facts"."Revenue""Base Facts"."Revenue" / "Calculated Facts"."All Products Revenue" * 100Advanced Calcs% of Full Company Revenue"Products"."LOB""Time"."Per Name Year"Year To Date Revenue% of Full Rev|
